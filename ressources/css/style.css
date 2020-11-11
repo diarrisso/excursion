@@ -4,13 +4,14 @@ body{
     padding: 0; 
     background-color: #000;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 } 
 * , ::before, ::after {
     box-sizing: border-box;
 }
 /* header */
 header .title{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
     text-align: center;
     font-size: 4.5rem;
     color: white;
@@ -20,5 +21,20 @@ header .title{
 .banner-content a{
     color: aquamarine;
     font-size: 1rem;
-
+    margin: 20px;
+    display:block; 
+    cursor: pointer;
 }
+
+.camping  h1{
+    font-weight: 300;
+    font-size: 42px;
+    color: white
+}
+
+.camping  p{
+    
+    font-size: 21px;
+    color: gray;
+}
+
