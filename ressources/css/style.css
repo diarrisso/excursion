@@ -11,14 +11,13 @@ body{
 }
 /* header */
 header .title{
-    
     text-align: center;
     font-size: 4.5rem;
     color: white;
     font-weight: normal;
     padding-top: 1%;
 }
-.banner-content a{
+a{
     color: aquamarine;
     font-size: 1rem;
     margin: 20px;
@@ -26,15 +25,19 @@ header .title{
     cursor: pointer;
 }
 
-.camping  h1{
+p{
     font-weight: 300;
     font-size: 42px;
     color: white
 }
 
-.camping  p{
+.camping{
     
     font-size: 21px;
     color: gray;
 }
-
+footer {
+    text-align: right;
+    color: gray;
+    margin-right: 1%;
+}
