@@ -1,0 +1,28 @@
+body{
+    font-size: 16px;
+    margin: 0;
+    padding: 0; 
+    background-color: #000;
+    text-align: center;
+} 
+* , ::before, ::after {
+    box-sizing: border-box;
+}
+/* header */
+header .title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 4.5rem;
+    color: white;
+    font-weight: normal;
+    padding-top: 1%;
+}
+.banner-content a{
+    color: aquamarine;
+    font-size: 1rem;
+
+}
+.banner {
+    bac
+
+}
